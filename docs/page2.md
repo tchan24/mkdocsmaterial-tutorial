@@ -2,4 +2,4 @@
 
 ## another heading
 
-poopy face
+this is sample text on page 2
