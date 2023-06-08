@@ -23,6 +23,7 @@ theme:
         name: Switch to dark mode
      primary: teal
       accent: purple
+      
     - scheme: slate
       toggle:
         icon: material/toggle-switch-outline
