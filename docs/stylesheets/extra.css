@@ -1,9 +1,38 @@
-h2 {
-    color: #ffffff;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+/* Change header color to match the theme */
+.navbar.navbar-default {
+    background-color: #08eb63; /* Replace with your desired color */
+  }
+  
+  /* Change header text color */
+  .navbar.navbar-default .navbar-brand,
+  .navbar.navbar-default .navbar-nav > li > a {
+    color: #b72222; /* Replace with your desired text color */
+  }
+  
 
-header {
+/* Ad Hoc Research Theme */
+/* Add your custom styles specific to the Ad Hoc Research theme here */
+
+/* Example: Change the color of headings to red */
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+  }
+  
+  /* Darkstax Theme */
+  /* Add your custom styles specific to the Darkstax theme here */
+  
+  /* Example: Change the background color to dark gray */
+  body {
+    background-color: #ffffff;
+  }
+  
+  /* Example: Change the text color to light gray */
+  body, p, a {
+    color: #ddd;
+  }
+  
+
+/*header {
     background-color: #000000;
     color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
