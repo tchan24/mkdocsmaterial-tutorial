@@ -1,12 +1,24 @@
-/* Change header color to match the theme */
+/* Change header color to match the theme 
 .navbar.navbar-default {
-    background-color: #08eb63; /* Replace with your desired color */
+    background-color: #08eb63; /* Replace with your desired color 
+  }
+  
+  /* Change header text color 
+  .navbar.navbar-default .navbar-brand,
+  .navbar.navbar-default .navbar-nav > li > a {
+    color: #b72222; /* Replace with your desired text color 
+  } */
+
+/* Change header color */
+.md-header-nav {
+    background-color: #ffffff; /* Replace with your desired color */
+    color: #000;
   }
   
   /* Change header text color */
-  .navbar.navbar-default .navbar-brand,
-  .navbar.navbar-default .navbar-nav > li > a {
-    color: #b72222; /* Replace with your desired text color */
+  .md-header-nav .md-header-nav__title,
+  .md-header-nav .md-header-nav__link {
+    color: #ffffff; /* Replace with your desired text color */
   }
   
 
